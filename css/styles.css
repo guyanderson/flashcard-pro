@@ -1,5 +1,6 @@
 img {
   width: 100%;
+  max-height: 250px
 }
 .panel {
   border: 0;
@@ -12,4 +13,11 @@ img {
 }
 h4 {
   text-align: center;
+}
+/*.row {
+    min-height: 300px;
+    max-height: 300px*/
+}
+.row {
+  border-style: thick solid black;
 }
